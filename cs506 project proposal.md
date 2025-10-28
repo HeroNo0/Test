@@ -28,7 +28,7 @@ Data
    1. Preliminary Visuals of Noised Data:  
       1. Gaussian Noise 
 
-         ![image1](test/denoise.png)
+         ![image1](denoise.png)
 
       2. Poisson noise
 
